@@ -1,0 +1,6 @@
+atlasstyle/
+atlas*
+
+plots/
+
+*.pyc
